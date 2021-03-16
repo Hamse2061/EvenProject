@@ -1,0 +1,150 @@
+.container {
+	width: 1440px;
+	height: 1000px;
+	background-color: #E5E5E5;
+}
+.bodycontainer {
+	display: flex;
+	position: relative;
+}
+.walkthrough {
+	width: 411px;
+	height: 823px;
+	background-color:#fff;
+	margin-left: 75px;
+	margin-top: 50px;
+	border-radius: 10px;
+	
+}
+.walkp {
+	margin-left: 0px;
+	margin-top: 50px;
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	color: #878fAD;
+}
+.logo {
+	text-align: center;
+}
+.logo h1 {
+margin-top: 20px;
+font-family: arial;
+color: #3E476A;
+}
+.walkbutton {
+	margin-top: 100px;
+	text-align: center
+}
+.walkbutton button {
+	width: 315px;
+	height: 48px;
+}
+#signup {
+	background: linear-gradient(90deg, #59A1FF 19.89%,#3D67F2 100%);
+	border-radius: 3px;
+	color: #fff;
+}
+#login {
+	background-color: #E5E5E5;
+	color: #3D88F2;
+}
+.skip {
+	text-decoration: none;
+	font-family: arial;
+	text-align: center;
+	margin-left: 150px;
+	padding-top: 200px;
+	}
+	
+.signup {
+	width: 411px;
+	height: 823px;
+	background-color:#fff;
+	margin-left: 25px;
+	margin-top: 50px;
+	border-radius: 10px;
+}
+
+form {
+	text-align: center;
+	margin-top: -100px;
+}
+form input {
+	width: 315px;
+	height: 48px;
+	background-color: #f2f5fA;
+	color: #A6ACC3;
+	border-color: #fff;
+	border-radius: 0px;
+	padding-left: 20px;
+}
+button {
+	width: 315px;
+	height: 48px;
+}
+button:hover {
+	border-color:#3D88F2;
+}
+.submit {
+	background: linear-gradient(90deg, #59A1FF 19.89%,#3D67F2 100%);
+	border-radius: 3px;
+	color: #fff;
+}
+a {
+	text-decoration:none;
+}
+.facebook {
+	background-color: #4A6EAB;
+	color: #fff;
+}
+.google {
+	color: #A6ACC3;
+}
+.pcolor {
+	display: flex;
+	margin-left:60px;
+	font-family: arial;
+	font-size: 10px;
+	
+}
+#colorp {
+	color: #3D88F2;
+	text-align: center;
+}
+#ready {
+	font-family: arial;
+	font-size:12px;
+}
+
+.login {
+	width: 411px;
+	height: 823px;
+	background-color:#fff;
+	margin-left: 25px;
+	margin-top: 50px;
+	border-radius: 10px;
+	text-align: center;
+}
+.login input {
+	width: 315px;
+	height: 48px;
+}
+.txtbox {
+	width: 315px;
+	height: 48px;
+	margin-top: -10px;
+	background-color: #f2f5fA;
+	color: #A6ACC3;
+	border-color: #fff;
+	border-radius: 0px;
+	padding-left: 40px;
+}
+.loginbtn {
+	background: linear-gradient(90deg, #59A1FF 19.89%,#3D67F2 100%);
+	border-radius: 3px;
+	color: #fff;
+}
+img {
+	margin-top: 200px;
+}
